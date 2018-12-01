@@ -1,2 +1,4 @@
 ﻿  GameSnake.cpp
-  GameSnake.vcxproj -> c:\users\rusya\source\repos\GameSnake\Debug\GameSnake.exe
+c:\users\rusya\source\repos\gamesnake\gamesnake\gamesnake.cpp(194): warning C4305: =: усечение из "double" в "float"
+c:\users\rusya\source\repos\gamesnake\gamesnake\gamesnake.cpp(206): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  GameSnake.vcxproj -> C:\Users\Rusya\source\repos\GameSnake\Debug\GameSnake.exe
