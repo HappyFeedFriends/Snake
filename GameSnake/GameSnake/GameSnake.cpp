@@ -108,6 +108,7 @@ void UpdatePosition() {
 		default:
 			break;
 	}
+	// Стоп гейм,если ушли за границу "карты"
 	if (positionW >= width+1 || positionH >= height+1)
 		IsGameOver = false;
 }
